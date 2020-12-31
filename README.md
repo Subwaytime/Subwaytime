@@ -1,9 +1,13 @@
 ### Hi there 👋
 
-• Founder of Nophase Studio
+• Founder of Nophase Studio 
+<br />
 • Full Stack Developer
+<br />
 • Laravel x VueJs
+<br />
 • Passionate Gamer
+<br />
 • Nerd for Life
 
 <!--
