@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+• Founder of Nophase Studio
+• Full Stack Developer
+• Laravel x VueJs
+• Passionate Gamer
+• Nerd for Life
+
 <!--
 **Subwaytime/Subwaytime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
