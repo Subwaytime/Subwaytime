@@ -4,7 +4,7 @@
 <br />
 • Full Stack Developer
 <br />
-• Laravel x VueJs
+• [Laravel](https://laravel.com/) x [Vue](https://v3.vuejs.org/)
 <br />
 • Passionate Gamer
 <br />
