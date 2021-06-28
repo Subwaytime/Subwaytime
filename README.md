@@ -9,6 +9,8 @@
 • Passionate Gamer
 <br />
 • Nerd for Life
+<br />
+• Proud Owner of two Kittens
 
 <!--
 **Subwaytime/Subwaytime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
